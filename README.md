@@ -30,7 +30,9 @@
   - redis
   - elasticsearch
   - rocketmq
-
+- 云原生
+  - docker
+  - k8s
 ### 🌟 兴趣爱好
 
 唱歌、打篮球、跳舞
