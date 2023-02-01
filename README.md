@@ -35,14 +35,16 @@
 
 - 个人品牌上
 
-- - [个人博客 ](https://blog.csdn.net/a_ittle_pan?spm=1011.2415.3001.5343)
+  - 个人博客 
+    - [csdn ](https://blog.csdn.net/a_ittle_pan?spm=1011.2415.3001.5343)
+    - [简书 ](https://www.jianshu.com/u/941b7a4a3935)
 
 
-- [开源](https://github.com/DisasterCamp)
-  - [fast-mq](https://github.com/DisasterCamp/fast-mq)
-  - [lock-layer](https://github.com/DisasterCamp/lock-layer)
-  - [service-mesh-mall](https://gitee.com/disaster_-camp/service-mesh-mall)
-  - .........
+  - 开源
+    - [fast-mq](https://github.com/DisasterCamp/fast-mq)
+    - [lock-layer](https://github.com/DisasterCamp/lock-layer)
+    - [service-mesh-mall](https://gitee.com/disaster_-camp/service-mesh-mall)
+    - .........
 
 
 
