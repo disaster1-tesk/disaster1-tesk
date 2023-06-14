@@ -46,12 +46,6 @@ A coder who likes open source, graduated from Jishou University with a major in 
   - [掘金](https://juejin.cn/user/110408636578711)
   - [InfoQ](https://www.infoq.cn/profile/F37050CA3DE25A/publish)
 - OPEN SOURCE
-<a href="https://github.com/disaster1-tesk/fast-mq">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=disaster1-tesk&repo=fast-mq&show_owner=true" />
-</a>
-<a href="https://github.com/disaster1-tesk/lock-layer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=disaster1-tesk&repo=lock-layer&show_owner=true" />
-</a>
   - [fast-mq](https://github.com/DisasterCamp/fast-mq)
   - [lock-layer](https://github.com/DisasterCamp/lock-layer)
   - [service-mesh-mall](https://gitee.com/disaster_-camp/service-mesh-mall)
@@ -59,4 +53,5 @@ A coder who likes open source, graduated from Jishou University with a major in 
 
 ### 📧 EMAIL
 - [disaster_vip@163.com]
-
+------
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
