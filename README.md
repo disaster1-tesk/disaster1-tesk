@@ -1,4 +1,5 @@
 ### Hi There!👋🏼
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 A coder who likes open source, graduated from Jishou University with a major in computer science and technology, has worked in the field of network security and Android, and is now constantly exploring ing in the field of java
 
