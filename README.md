@@ -36,6 +36,8 @@ A coder who likes open source, graduated from Jishou University with a major in 
   - redis
   - elasticsearch
   - rocketmq
+  - mysql
+  - rocketmq
 - 👩‍🦽Cloud Native
   - docker
   - k8s
