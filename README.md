@@ -1,23 +1,14 @@
 ### Hi There!👋🏼
 
-------
-
 A coder who likes open source, graduated from Jishou University with a major in computer science and technology, has worked in the field of network security and Android, and is now constantly exploring ing in the field of java
 
-### 🤓Professional Skill
-
-------
+### 🤓 Professional Skill
 
 - 🧎‍♂️Language
-
   - java
-
   - python
-
   - c
-
   - lua
-
   - vbs
 
 - 👨‍🦯Computer Basics
@@ -45,14 +36,14 @@ A coder who likes open source, graduated from Jishou University with a major in 
   - k8s
 
 ### 🌟 Hobby
-------
+
 - Sing(Life Time)
 - Basketball(eight years)
 - Dance(two years)
 - Coding
 
 ### ⚙️ Personal Brand
-------
+
 - BLOG
   - [csdn ](https://blog.csdn.net/a_ittle_pan?spm=1011.2415.3001.5343)
   - [简书 ](https://www.jianshu.com/u/941b7a4a3935)
@@ -63,6 +54,3 @@ A coder who likes open source, graduated from Jishou University with a major in 
     - [lock-layer](https://github.com/DisasterCamp/lock-layer)
     - [service-mesh-mall](https://gitee.com/disaster_-camp/service-mesh-mall)
     - .........
-
-
-
