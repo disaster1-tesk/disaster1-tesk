@@ -1,5 +1,5 @@
 ### Hi There!👋🏼
-<center> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I'm+Disaster!)](https://git.io/typing-svg) < center>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I'm+Disaster!)](https://git.io/typing-svg)
 
 A coder who likes open source, graduated from Jishou University with a major in computer science and technology, has worked in the field of network security and Android, and is now constantly exploring ing in the field of java
 
