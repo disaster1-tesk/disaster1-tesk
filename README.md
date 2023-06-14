@@ -35,9 +35,9 @@ A coder who likes open source, graduated from Jishou University with a major in 
 
 ### 🌟 Hobby
 - 🎤Sing(Life Time)
-- 🏀Basketball(eight years)
-- 🕺Dance(two years)
-- 👨‍💻Coding(Life Time)
+- 🏀Basketball(Eight Years)
+- 🕺Dance(Four Years)
+- 👨‍💻Coding(Three Years)
 
 ### ⚙️ Personal Brand
 - BLOG
