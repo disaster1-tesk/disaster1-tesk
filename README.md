@@ -43,6 +43,8 @@ A coder who likes open source, graduated from Jishou University with a major in 
 - BLOG
   - [csdn ](https://blog.csdn.net/a_ittle_pan?spm=1011.2415.3001.5343)
   - [简书 ](https://www.jianshu.com/u/941b7a4a3935)
+  - [掘金](https://juejin.cn/user/110408636578711)
+  - [InfoQ](https://www.infoq.cn/profile/F37050CA3DE25A/publish)
 - OPEN SOURCE
   - [fast-mq](https://github.com/DisasterCamp/fast-mq)
   - [lock-layer](https://github.com/DisasterCamp/lock-layer)
