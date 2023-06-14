@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+I'm+Disaster!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&repeat=false&width=435&lines=Hi%2CI'm+Disaster.A+coder+who+likes+open+source%2C+graduated+from+Jishou+University+with+a+major+in+computer+science+and+technology%2C+has+worked+in+the+field+of+network+security+and+Android%2C+and+is+now+constantly+exploring+ing+in+the+field+of+java)](https://git.io/typing-svg)
 
 A coder who likes open source, graduated from Jishou University with a major in computer science and technology, has worked in the field of network security and Android, and is now constantly exploring ing in the field of java
 
