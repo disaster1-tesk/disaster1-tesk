@@ -72,7 +72,5 @@ A coder who likes open source, graduated from Jishou University with a major in 
   - [service-mesh-mall](https://gitee.com/disaster_-camp/service-mesh-mall)
   - [more](https://github.com/disaster1-tesk)
 
-### 📧 EMAIL
-- [disaster_vip@163.com]
 
 
