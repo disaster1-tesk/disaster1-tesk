@@ -55,4 +55,4 @@ A coder who likes open source, graduated from Jishou University with a major in 
 - [disaster_vip@163.com]
 ------
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=disaster1-tesk&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=disaster1-tesk)](https://github.com/disaster1-tesk)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=disaster1-tesk&hide=PLpgSQL)](https://github.com/disaster1-tesk)
