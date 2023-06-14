@@ -56,10 +56,10 @@ A coder who likes open source, graduated from Jishou University with a major in 
 - [disaster_vip@163.com]
 ------
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/disaster1-tesk/fast-mq">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=disaster1-tesk&repo=fast-mq" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/disaster1-tesk/lock-layer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=disaster1-tesk&repo=lock-layer" />
 </a>
 
