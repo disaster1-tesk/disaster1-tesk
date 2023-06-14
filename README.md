@@ -51,4 +51,3 @@ A coder who likes open source, graduated from Jishou University with a major in 
 
 ### 📧 EMAIL
 - [disaster_vip@163.com]
-- [2272317762@qq.com]
