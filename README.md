@@ -1,6 +1,5 @@
 ### Hi There!👋🏼
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+I'm+Disaster!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I'm+Disaster!)](https://git.io/typing-svg)
 A coder who likes open source, graduated from Jishou University with a major in computer science and technology, has worked in the field of network security and Android, and is now constantly exploring ing in the field of java
 
 ### 🤓 Professional Skill
@@ -57,8 +56,8 @@ A coder who likes open source, graduated from Jishou University with a major in 
 ------
 
 <a href="https://github.com/disaster1-tesk/fast-mq">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=disaster1-tesk&repo=fast-mq&show_owner" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=disaster1-tesk&repo=fast-mq&show_owner=true" />
 </a>
 <a href="https://github.com/disaster1-tesk/lock-layer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=disaster1-tesk&repo=lock-layer&show_owner" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=disaster1-tesk&repo=lock-layer&show_owner=true" />
 </a>
