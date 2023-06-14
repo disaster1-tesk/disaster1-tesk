@@ -1,7 +1,8 @@
 <p align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&repeat=false&width=435&lines=Hi%2CI'm+Disaster.A+coder+who+likes+open+source%2C+graduated+from+Jishou+University+with+a+major+in+computer+science+and+technology%2C+has+worked+in+the+field+of+network+security+and+Android%2C+and+is+now+constantly+exploring+ing+in+the+field+of+java)](https://git.io/typing-svg)
-  
+  <h3 align="center">⌨️ Readme</h3>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+,+I'm+Disaster!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
 A coder who likes open source, graduated from Jishou University with a major in computer science and technology, has worked in the field of network security and Android, and is now constantly exploring ing in the field of java
