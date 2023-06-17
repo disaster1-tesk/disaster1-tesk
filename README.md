@@ -32,6 +32,13 @@ A coder who likes open source, graduated from Jishou University with a major in 
   - [service-mesh-mall](https://gitee.com/disaster_-camp/service-mesh-mall)
   - [more](https://github.com/disaster1-tesk)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=disaster1-tesk&show_icons=true&locale=en&layout=compact" alt="disaster1-tesk" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=disaster1-tesk&show_icons=true&locale=en" alt="disaster1-tesk" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=disaster1-tesk&" alt="disaster1-tesk" /></p>
+
+
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
