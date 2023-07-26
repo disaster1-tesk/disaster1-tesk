@@ -32,7 +32,7 @@ A coder who likes open source, has worked in the field of network security and A
   - [service-mesh-mall](https://gitee.com/disaster_-camp/service-mesh-mall)
   - [more](https://github.com/disaster1-tesk)
 - 🕵️‍♀️PERSONAL SEARCH ENGINE
-  - [disaster searcg](https://cse.google.com.hk/cse?cx=64b447ac102ba4957)
+  - [disaster search](https://cse.google.com.hk/cse?cx=64b447ac102ba4957)
 
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
