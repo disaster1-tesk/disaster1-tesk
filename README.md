@@ -29,6 +29,7 @@ A coder who likes open source, has worked in the field of network security and A
 - 🎩OPEN SOURCE
   - [fast-mq](https://github.com/DisasterCamp/fast-mq)
   - [lock-layer](https://github.com/DisasterCamp/lock-layer)
+  - [eaac](https://github.com/DisasterCamp/eaac)
   - [service-mesh-mall](https://gitee.com/disaster_-camp/service-mesh-mall)
   - [more](https://github.com/disaster1-tesk)
 - 🕵️‍♀️PERSONAL SEARCH ENGINE
