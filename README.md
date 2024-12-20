@@ -27,6 +27,7 @@ A coder who likes open source, has worked in the field of network security and A
   - [掘金](https://juejin.cn/user/110408636578711)
   - [InfoQ](https://www.infoq.cn/profile/F37050CA3DE25A/publish)
 - 🎩OPEN SOURCE
+  - [spring-ai-alibaba]([https://github.com/DisasterCamp/fast-mq](https://github.com/alibaba/spring-ai-alibaba))
   - [fast-mq](https://github.com/DisasterCamp/fast-mq)
   - [lock-layer](https://github.com/DisasterCamp/lock-layer)
   - [eaac](https://github.com/DisasterCamp/eaac)
