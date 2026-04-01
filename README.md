@@ -7,7 +7,7 @@
 </p>
 
 ### 🧘‍♂️ Introduce
-A coder who likes open source, has worked in the field of network security and Android, and is now constantly exploring ing in the field of java👋🏼[more](https://sites.google.com/view/disasterww/home)
+A coder who likes open source, has worked in the field of network security and Android, and is now constantly exploring ing in the field of java👋🏼
 <p align="left"> 
    <a href="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="coding">
