@@ -24,14 +24,6 @@ A coder who likes open source, has worked in the field of network security and A
 - 🏀Basketball(Ten Years)
 - 🕺Dance(Four Years)
 - 👨‍💻Coding(Four Years)
-
-### ⚙️ Personal Brand
-- 📚BLOG&emsp; [个人博客 ](https://disaster1-tesk.github.io/note/)&emsp;[csdn ](https://blog.csdn.net/a_ittle_pan?spm=1011.2415.3001.5343)&emsp;[简书 ](https://www.jianshu.com/u/941b7a4a3935)&emsp;[掘金](https://juejin.cn/user/110408636578711)&emsp;[InfoQ](https://www.infoq.cn/profile/F37050CA3DE25A/publish)
-- 🎩OPEN SOURCE &emsp;[spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba)&emsp;[eaac](https://github.com/DisasterCamp/eaac)&emsp;
-[fast-mq](https://github.com/DisasterCamp/fast-mq)&emsp;[lock-layer](https://github.com/DisasterCamp/lock-layer)&emsp;[service-mesh-mall](https://gitee.com/disaster_-camp/service-mesh-mall)&emsp;[SearchTrek](https://github.com/disaster1-tesk/SearchTrek)&emsp;[chat-gpt-wechat](https://github.com/disaster1-tesk/chat-gpt-wechat)&emsp;[more](https://github.com/disaster1-tesk)
-- 🕵️‍♀️PERSONAL SEARCH ENGINE&emsp;[disaster search ](https://cse.google.com.hk/cse?cx=64b447ac102ba4957)
-
-
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
