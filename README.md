@@ -21,8 +21,6 @@
 A coder who loves open source.
 Formerly engaged in **network security & Android development**, now deeply exploring **Java backend & distributed systems**.
 
-
-
 <br/>
 
 ### 📊 GitHub Stats
