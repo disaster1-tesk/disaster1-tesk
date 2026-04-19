@@ -17,13 +17,21 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=disaster1-tesk&show_icons=true&count_private=true&hide_border=true&title_color=0e75b6&icon_color=0e75b6&text_color=c9d1d9&bg_color=0d1117" alt="Disaster's github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=disaster1-tesk&layout=compact&hide_border=true&title_color=0e75b6&text_color=c9d1d9&bg_color=0d1117" />
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=disaster1-tesk&show_icons=true&count_private=true&hide_border=true&title_color=0e75b6&icon_color=0e75b6&text_color=c9d1d9&bg_color=0d1117" alt="Disaster's github stats" />
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=disaster1-tesk&layout=compact&hide_border=true&title_color=0e75b6&text_color=c9d1d9&bg_color=0d1117&langs_count=8&hide=html,css" />
 </p>
-
 <p align="center">
-  <img width="99%" src="https://github-readme-streak-stats.herokuapp.com/?user=disaster1-tesk&hide_border=true&background=0d1117&stroke=0e75b6&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" />
+<img width="99%" src="https://github-readme-streak-stats.herokuapp.com/?user=disaster1-tesk&hide_border=true&background=0d1117&stroke=0e75b6&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" />
 </p>
 
+### 📫 Find Me
+GitHub: @disaster1-tesk
 <br/>
+Focus: 
+• Java&Python Backend 
+• Distributed
+• AI Agent
+• Crawler
+• Audio/Video
+• Open Source
 
