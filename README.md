@@ -10,16 +10,18 @@
 
 <br/>
 
-### 🧘‍♂️ Introduction
-A coder who loves open source.
-Formerly engaged in **network security & Android development**, now deeply exploring **Java backend & distributed systems**.
-
 <p align="left">
   <a href="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" alt="coding">
   </a>
   <img src="https://komarev.com/ghpvc/?username=disaster1-tesk&label=Profile%20views&color=0e75b6&style=flat" alt="disaster1-tesk" />
 </p>
+
+### 🧘‍♂️ Introduction
+A coder who loves open source.
+Formerly engaged in **network security & Android development**, now deeply exploring **Java backend & distributed systems**.
+
+
 
 <br/>
 
