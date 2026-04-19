@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=0e75b6&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Disaster!;Open+Source+Enthusiast;Java+%26+Backend+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=0e75b6&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Disaster!;Open+Source+Enthusiast;Java|Python+%26+Backend+Developer" alt="Typing SVG" />
 </p>
 
 <br/>
@@ -18,10 +18,8 @@
 </p>
 
 ### 🧘‍♂️ Introduction
-A coder who loves open source.
-Formerly engaged in **network security & Android development**, now deeply exploring **Java backend & distributed systems**.
+  An open source enthusiast with a passion for coding. Formerly engaged in network security and Android development, I am now deeply focusing on Java backend and distributed systems, while actively exploring the field of Agentic AI. Adhering to the belief of "Code with Passion, Dance through Debugging, Shoot for Innovation", I keep moving forward in the journey of technology exploration.
 
-<br/>
 
 ### 📊 GitHub Stats
 <p align="center">
