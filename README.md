@@ -35,29 +35,3 @@ Formerly engaged in **network security & Android development**, now deeply explo
 
 <br/>
 
-### 🌟 Hobbies
-- 🎤 Singing – lifelong passion
-- 🏀 Basketball – 10+ years
-- 💃 Dancing – 4+ years
-- 👨‍💻 Coding – 4+ years
-
-<br/>
-
-<div align="center">
-  <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
-  <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="28" height="25"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/exceptionallyfastparrot.gif" width="25" height="25"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="25" height="25"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="25" height="25"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="25" height="25"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="25" height="25"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="25" height="25"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="25" height="25"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="25" height="25"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="25" height="25"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="25" height="25"/>
-</div>
-
-<br/>
